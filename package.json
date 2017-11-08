@@ -10,5 +10,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10"
+  }
 }
